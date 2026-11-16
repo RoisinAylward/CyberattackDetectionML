@@ -27,7 +27,7 @@ CyberattackDetectionML/
 └── requirements.txt
 ```
 
-📄 The full [Project Report (PDF)](documentation/Project%20Report.pdf) is viewable in-repo.
+📄 The full [Project Report (PDF)](documentation/Project_Report_B00168689.pdf) is viewable in-repo.
 
 ---
 
